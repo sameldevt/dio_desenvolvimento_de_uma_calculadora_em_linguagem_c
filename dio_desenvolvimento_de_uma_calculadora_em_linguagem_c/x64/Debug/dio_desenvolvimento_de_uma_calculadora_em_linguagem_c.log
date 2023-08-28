@@ -1,0 +1,6 @@
+﻿  main.c
+C:\ws-vs\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\main.c(13,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\ws-vs\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\main.c(13,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\ws-vs\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\main.c(13,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\ws-vs\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\main.c(13,11): message : this argument is used as a buffer size
+  dio_desenvolvimento_de_uma_calculadora_em_linguagem_c.vcxproj -> C:\ws-vs\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c\x64\Debug\dio_desenvolvimento_de_uma_calculadora_em_linguagem_c.exe
